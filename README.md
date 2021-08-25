@@ -5,5 +5,5 @@ Single page website built using reactjs and tailwind css. The Website is for dig
 [https://dribbble.com/shots/11131353-Remote-working-Landing-Page] (Dribbble UI)
 
 # Site Link
-[https://omnifesto.netlify.app/] 
+[https://omnifestos.netlify.app] 
 
